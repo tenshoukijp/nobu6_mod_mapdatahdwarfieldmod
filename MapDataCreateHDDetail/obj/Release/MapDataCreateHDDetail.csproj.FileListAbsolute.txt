@@ -1,0 +1,16 @@
+C:\Users\master\source\repos\MapDataCreateHDDetail\MapDataCreateHDDetail\bin\Release\MapDataCreateHDDetail.exe.config
+C:\Users\master\source\repos\MapDataCreateHDDetail\MapDataCreateHDDetail\bin\Release\MapDataCreateHDDetail.exe
+C:\Users\master\source\repos\MapDataCreateHDDetail\MapDataCreateHDDetail\bin\Release\MapDataCreateHDDetail.pdb
+C:\Users\master\source\repos\MapDataCreateHDDetail\MapDataCreateHDDetail\obj\Release\MapDataCreateHDDetail.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\MapDataCreateHDDetail\MapDataCreateHDDetail\obj\Release\MapDataCreateHDDetail.csproj.SuggestedBindingRedirects.cache
+C:\Users\master\source\repos\MapDataCreateHDDetail\MapDataCreateHDDetail\obj\Release\MapDataCreateHDDetail.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\MapDataCreateHDDetail\MapDataCreateHDDetail\obj\Release\MapDataCreateHDDetail.exe
+C:\Users\master\source\repos\MapDataCreateHDDetail\MapDataCreateHDDetail\obj\Release\MapDataCreateHDDetail.pdb
+D:\usr\koei\tenshouki95\dllwrap\MapDataCreateHDDetail\MapDataCreateHDDetail\bin\Release\MapDataCreateHDDetail.exe.config
+D:\usr\koei\tenshouki95\dllwrap\MapDataCreateHDDetail\MapDataCreateHDDetail\bin\Release\MapDataCreateHDDetail.exe
+D:\usr\koei\tenshouki95\dllwrap\MapDataCreateHDDetail\MapDataCreateHDDetail\bin\Release\MapDataCreateHDDetail.pdb
+D:\usr\koei\tenshouki95\dllwrap\MapDataCreateHDDetail\MapDataCreateHDDetail\obj\Release\MapDataCreateHDDetail.csproj.AssemblyReference.cache
+D:\usr\koei\tenshouki95\dllwrap\MapDataCreateHDDetail\MapDataCreateHDDetail\obj\Release\MapDataCreateHDDetail.csproj.SuggestedBindingRedirects.cache
+D:\usr\koei\tenshouki95\dllwrap\MapDataCreateHDDetail\MapDataCreateHDDetail\obj\Release\MapDataCreateHDDetail.csproj.CoreCompileInputs.cache
+D:\usr\koei\tenshouki95\dllwrap\MapDataCreateHDDetail\MapDataCreateHDDetail\obj\Release\MapDataCreateHDDetail.exe
+D:\usr\koei\tenshouki95\dllwrap\MapDataCreateHDDetail\MapDataCreateHDDetail\obj\Release\MapDataCreateHDDetail.pdb
